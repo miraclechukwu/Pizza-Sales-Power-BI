@@ -1,4 +1,4 @@
-# Pizza-Sales-Power-BI
+# Pizza Sales Power BI Visualization
 Hello there! I am excited to present the results of my Pizza Sales Data Analysis project. I explored a comprehensive dataset containing detailed information about pizza orders, including order details, pizza category, size, quantity, prices, and order dates.
 
 ## Problem Statement
